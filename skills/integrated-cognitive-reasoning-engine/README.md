@@ -21,6 +21,10 @@ Modern LLMs generate plausible-sounding responses based on statistical patterns.
 
 Every response includes a `<Reasoning_Trace>` block showing exactly which modules fired, which causal interventions were selected, and the final Bayesian confidence score.
 
+</div>
+<p align="center">
+  <img src="https://github.com/ohrbit/edgeai/blob/main/skills/integrated-cognitive-reasoning-engine/assets/hero.png" alt="front" width="80%" />
+
 ---
 
 ## 🚀 Quick Start
