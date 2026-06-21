@@ -1,5 +1,5 @@
 ---
-name: integrated-cognitive-reasoning-engine
+name: icre
 description: >
   Structured 5-module cognitive reasoning pipeline for explainable, logical,
   and probabilistically accurate analysis. Use when the task involves noisy or
@@ -13,7 +13,6 @@ description: >
   self-correction. Appends a Reasoning_Trace block to every output.
 metadata:
   homepage: https://github.com/ohrbit/edgeai/skills/integrated-cognitive-reasoning-engine
-  author: downwind-lee x perplexity x claude sonnet 4.6 webui
   version: "1.0.0"
 ---
 
