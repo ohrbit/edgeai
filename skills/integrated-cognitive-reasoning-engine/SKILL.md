@@ -1,5 +1,5 @@
 ---
-name: icre
+name: integrated-cognitive-reasoning-engine
 description: >
   Structured 5-module cognitive reasoning pipeline for explainable, logical,
   and probabilistically accurate analysis. Use when the task involves noisy or
@@ -11,9 +11,19 @@ description: >
   through neurosymbolic grounding, abductive hypothesis selection, causal
   modeling, Bayesian uncertainty quantification, and meta-cognitive
   self-correction. Appends a Reasoning_Trace block to every output.
+license: MIT
 metadata:
   homepage: https://github.com/ohrbit/edgeai/skills/integrated-cognitive-reasoning-engine
+  author: downwind-lee x perplexity x claude sonnet 4.6 webui
   version: "1.0.0"
+  project: ICRE
+  tags: reasoning, causal, bayesian, neurosymbolic, explainability
+  id: integrated-cognitive-reasoning-engine
+  aliases: [Agent_API, Inter-Agent_Protocol]
+  galaxy_links: [[SOUL], [MEMORY], [REASONING]]
+  shape: box
+  pinned: true
+  callout: true
 ---
 
 ## Integrated Cognitive Reasoning Engine
